@@ -1,0 +1,18 @@
+body {
+  min-width: 32rem;
+  min-height: 32rem;
+}
+
+#logo {
+  width: 60%;
+}
+
+
+main {
+  font-size: 1.3rem;
+}
+
+main p {
+  margin: 1rem;
+  max-width: 24rem;
+}
